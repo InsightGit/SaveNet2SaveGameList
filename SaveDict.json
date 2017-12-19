@@ -1,0 +1,242 @@
+{
+  "game0": {
+    "name": "Hovercraft: Takedown",
+    "imagefile": "hc.png",
+    "savedir": "/data/data/com.highscorehero.takedown/shared_prefs",
+    "packagename": "com.highscorehero.takedown",
+    "dumpsavepath": "/data/data/com.highscorehero.takedown/files/",
+    "savedirname": "files"
+  },
+  "game1": {
+    "name": "Oh my giraffe",
+    "imagefile": "omg.png",
+    "savedir": "/data/data/com.kneeko.giraffe/files/save",
+    "packagename": "com.kneeko.giraffe",
+    "dumpsavepath": "/data/data/com.kneeko.giraffe/files/",
+    "savedirname": "save"
+  },
+  "game2": {
+    "name": "Crazy Taxi",
+    "imagefile": "ct.png",
+    "savedir": "/data/data/com.sega.CrazyTaxi/files/",
+    "packagename": "com.sega.CrazyTaxi",
+    "dumpsavepath": "/data/data/com.sega.CrazyTaxi/",
+    "savedirname": "files"
+  },
+  "game3": {
+    "name": "Asphalt 8",
+    "imagefile": "a8.png",
+    "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/",
+    "packagename": "com.gameloft.android.ANMP.GloftA8HM",
+    "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/",
+    "savedirname": "files"
+  },
+  "game4": {
+    "name": "Bloons TD 5",
+    "imagefile": "bt5.png",
+    "savedir": "/data/data/com.ninjakiwi.bloonstd5/files/",
+    "packagename": "com.ninjakiwi.bloonstd5",
+    "dumpsavepath": "/data/data/com.ninjakiwi.bloonstd5/",
+    "savedirname": "files"
+  },
+  "game5": {
+    "name": "Mega Mall Story",
+    "imagefile": "mm.png",
+    "savedir": "/data/data/net.kairosoft.android.depart_en/shared_prefs/",
+    "packagename": "net.kairosoft.android.depart_en",
+    "dumpsavepath": "/data/data/net.kairosoft.android.depart_en/",
+    "savedirname": "shared_prefs"
+  },
+  "game6": {
+    "name": "Monument Valley",
+    "imagefile": "mv.png",
+    "savedir": "/data/data/com.ustwo.monumentvalley/shared_prefs/",
+    "packagename": "com.ustwo.monumentvalley",
+    "dumpsavepath": "/data/data/com.ustwo.monumentvalley/",
+    "savedirname": "shared_prefs"
+  },
+  "game7": {
+    "name": "Monument Valley (Amazon)",
+    "imagefile": "mv.png",
+    "savedir": "/data/data/com.ustwo.monumentvalley.underground/shared_prefs",
+    "packagename": "com.ustwo.monumentvalley.underground",
+    "dumpsavepath": "/data/data/com.ustwo.monumentvalley.underground/",
+    "savedirname": "shared_prefs"
+  },
+  "game8": {
+    "name": "PAC-MAN 256",
+    "imagefile": "pm.png",
+    "savedir": "/data/data/eu.bandainamcoent.pacman256/shared_prefs",
+    "packagename": "eu.bandainamcoent.pacman256",
+    "dumpsavepath": "/data/data/eu.bandainamcoent.pacman256/",
+    "savedirname": "shared_prefs"
+  },
+  "game9": {
+    "name": "Minecraft Pocket Edition",
+    "imagefile": "mpe.png",
+    "savedir": "/sdcard/games/com.mojang",
+    "packagename": "com.mojang.minecraftpe",
+    "dumpsavepath": "/sdcard/games/",
+    "savedirname": "com.mojang"
+  },
+  "game10": {
+    "name": "Terraria",
+    "imagefile": "te.png",
+    "savedir": "/data/data/com.and.games505.Terraria/files",
+    "packagename": "com.and.games505.Terraria",
+    "dumpsavepath": "/data/data/com.and.games505.Terraria/",
+    "savedirname": "files"
+  },
+  "game11": {
+    "name": "Terraria (Paid)",
+    "imagefile": "te.png",
+    "savedir": "/data/data/com.and.games505.TerrariaPaid/files",
+    "packagename": "com.and.games505.TerrariaPaid",
+    "dumpsavepath": "/data/data/com.and.games505.TerrariaPaid/",
+    "savedirname": "files"
+  },
+  "game12": {
+    "name": "Smashy Road Arena",
+    "imagefile": "sra.png",
+    "savedir": "/data/data/com.bearbit.smashyroadarena/shared_prefs",
+    "packagename": "com.bearbit.smashyroadarena",
+    "dumpsavepath": "/data/data/com.bearbit.smashyroadarena/",
+    "savedirname": "shared_prefs"
+  },
+  "game13": {
+    "name": "Sonic the Hedgehog (Classic)",
+    "imagefile": "sth.png",
+    "savedir": "/sdcard/Android/data/com.sega.sonic1/files/",
+    "packagename": "com.sega.sonic1px",
+    "dumpsavepath": "/sdcard/Android/data/com.sega.sonic1/",
+    "savedirname": "files"
+  },
+  "game14": {
+    "name": "Fast like a Fox",
+    "imagefile": "flf.png",
+    "savedir": "/data/data/com.waybefore.fastlikeafox/files",
+    "packagename": "com.waybefore.fastlikeafox",
+    "dumpsavepath": "/data/data/com.waybefore.fastlikeafox/",
+    "savedirname": "files"
+  },
+  "game15": {
+    "name": "Hill Climb Racing",
+    "imagefile": "hcr.png",
+    "savedir": "/data/data/com.fingersoft.hillclimb/shared_prefs",
+    "packagename": "com.fingersoft.hillclimb",
+    "dumpsavepath": "/data/data/com.fingersoft.hillclimb/",
+    "savedirname": "shared_prefs"
+  },
+  "game16": {
+    "name": "Hill Climb Racing 2",
+    "imagefile": "hcr2.png",
+    "savedir": "/data/data/com.fingersoft.hcr2/files",
+    "packagename": "com.fingersoft.hcr2",
+    "dumpsavepath": "/data/data/com.fingersoft.hcr2/",
+    "savedirname": "files"
+  },
+  "game17": {
+    "name": "BADLAND",
+    "imagefile": "bl.png",
+    "savedir": "/data/data/com.frogmind.badland/files",
+    "packagename": "com.frogmind.badland",
+    "dumpsavepath": "/data/data/com.frogmind.badland/",
+    "savedirname": "files"
+  },  
+  "game18": {
+    "name": "Crossy Road",
+    "imagefile": "cr.png",
+    "savedir": "/data/data/com.yodo1.crossyroad/shared_prefs",
+    "packagename": "com.yodo1.crossyroad",
+    "dumpsavepath": "/data/data/com.yodo1.crossyroad/",
+    "savedirname": "shared_prefs"
+  },
+  "game19": {
+    "name": "Jetpack Joyride",
+    "imagefile": "jj.png",
+    "savedir": "/data/data/com.halfbrick.jetpackjoyride/files",
+    "packagename": "com.halfbrick.jetpackjoyride",
+    "dumpsavepath": "/data/data/com.halfbrick.jetpackjoyride/",
+    "savedirname": "files"
+  },
+  "game20": {
+    "name": "Neko Atsume: Kitty Collector",
+    "imagefile": "na.png",
+    "savedir": "/data/data/jp.co.hit_point.nekoatsume/files",
+    "packagename": "jp.co.hit_point.nekoatsume",
+    "dumpsavepath": "/data/data/jp.co.hit_point.nekoatsume/",
+    "savedirname": "files"
+  },
+  "game21": {
+    "name": "Doodle Jump",
+    "imagefile": "dj.png",
+    "savedir": "/data/data/com.lima.doodlejump/files",
+    "packagename": "com.lima.doodlejump",
+    "dumpsavepath": "/data/data/com.lima.doodlejump/",
+    "savedirname": "files"
+  },
+  "game22": {
+    "name": "Alto's Adventure",
+    "imagefile": "aa.png",
+    "savedir": "/data/data/com.noodlecake.altosadventure/shared_prefs",
+    "packagename": "com.noodlecake.altosadventure",
+    "dumpsavepath": "/data/data/com.noodlecake.altosadventure/",
+    "savedirname": "shared_prefs"
+  },
+  "game23": {
+    "name": "Angry Birds",
+    "imagefile": "ab.png",
+    "savedir": "/data/data/com.rovio.angrybirds/files",
+    "packagename": "com.rovio.angrybirds",
+    "dumpsavepath": "/data/data/com.rovio.angrybirds/",
+    "savedirname": "files"
+  },
+  "game24": {
+    "name": "PAC-MAN",
+    "imagefile": "pmt.png",
+    "savedir": "/data/data/com.namcobandaigames.pacmantournaments/files",
+    "packagename": "com.namcobandaigames.pacmantournaments",
+    "dumpsavepath": "/data/data/com.namcobandaigames.pacmantournaments/",
+    "savedirname": "files"
+  },
+  "game25": {
+    "name": "Grand Prix Story",
+    "imagefile": "gps.png",
+    "savedir": "/data/data/net.kairosoft.android.paddock_en/shared_prefs",
+    "packagename": "net.kairosoft.android.paddock_en",
+    "dumpsavepath": "/data/data/net.kairosoft.android.paddock_en/",
+    "savedirname": "shared_prefs"
+  },
+  "game26": {
+    "name": "Fallout Shelter",
+    "imagefile": "fs.png",
+    "savedir": "/sdcard/Android/data/com.bethsoft.falloutshelter/files",
+    "packagename": "com.bethsoft.falloutshelter",
+    "dumpsavepath": "/sdcard/Android/data/com.bethsoft.falloutshelter/",
+    "savedirname": "files"
+  },
+  "game27": {
+    "name": "Sonic Dash 2: Sonic Boom",
+    "imagefile": "sd2.png",
+    "savedir": "/sdcard/Android/data/com.sega.sonicboomandroid/files",
+    "packagename": "com.sega.sonicboomandroid",
+    "dumpsavepath": "/sdcard/Android/data/com.sega.sonicboomandroid/",
+    "savedirname": "files"
+  },
+  "game28": {
+    "name": "Sonic The Hedgehog 2 Classic",
+    "imagefile": "sth2.png",
+    "savedir": "/data/data/com.sega.sonic2.runner/files",
+    "packagename": "com.sega.sonic2.runner",
+    "dumpsavepath": "/data/data/com.sega.sonic2.runner/",
+    "savedirname": "files"
+  },
+  "game29": {
+    "name": "Plants vs. Zombies FREE",
+    "imagefile": "pvz.png",
+    "savedir": "/data/data/com.ea.game.pvzfree_row/files",
+    "packagename": "com.ea.game.pvzfree_row",
+    "dumpsavepath": "/data/data/com.ea.game.pvzfree_row/",
+    "savedirname": "files"
+  }
+}
