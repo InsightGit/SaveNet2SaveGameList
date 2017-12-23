@@ -24,6 +24,14 @@
     "savedirname": "files"
   },
   "game3": {
+    "name": "Crazy Taxi",
+    "imagefile": "ct.png",
+    "savedir": "/data/data/com.sega.CrazyTaxiplayhaven/files/",
+    "packagename": "com.sega.CrazyTaxiplayhaven",
+    "dumpsavepath": "/data/data/com.sega.CrazyTaxiplayhaven/",
+    "savedirname": "files"
+  }
+  "game4": {
     "name": "Asphalt 8",
     "imagefile": "a8.png",
     "savedir": "/data/data/com.gameloft.android.ANMP.GloftA8HM/files/",
@@ -31,7 +39,7 @@
     "dumpsavepath": "/data/data/com.gameloft.android.ANMP.GloftA8HM/",
     "savedirname": "files"
   },
-  "game4": {
+  "game5": {
     "name": "Bloons TD 5",
     "imagefile": "bt5.png",
     "savedir": "/data/data/com.ninjakiwi.bloonstd5/files/",
@@ -39,7 +47,7 @@
     "dumpsavepath": "/data/data/com.ninjakiwi.bloonstd5/",
     "savedirname": "files"
   },
-  "game5": {
+  "game6": {
     "name": "Mega Mall Story",
     "imagefile": "mm.png",
     "savedir": "/data/data/net.kairosoft.android.depart_en/shared_prefs/",
@@ -47,7 +55,7 @@
     "dumpsavepath": "/data/data/net.kairosoft.android.depart_en/",
     "savedirname": "shared_prefs"
   },
-  "game6": {
+  "game7": {
     "name": "Monument Valley",
     "imagefile": "mv.png",
     "savedir": "/data/data/com.ustwo.monumentvalley/shared_prefs/",
@@ -55,7 +63,7 @@
     "dumpsavepath": "/data/data/com.ustwo.monumentvalley/",
     "savedirname": "shared_prefs"
   },
-  "game7": {
+  "game8": {
     "name": "Monument Valley (Amazon)",
     "imagefile": "mv.png",
     "savedir": "/data/data/com.ustwo.monumentvalley.underground/shared_prefs",
@@ -63,7 +71,7 @@
     "dumpsavepath": "/data/data/com.ustwo.monumentvalley.underground/",
     "savedirname": "shared_prefs"
   },
-  "game8": {
+  "game9": {
     "name": "PAC-MAN 256",
     "imagefile": "pm.png",
     "savedir": "/data/data/eu.bandainamcoent.pacman256/shared_prefs",
@@ -71,7 +79,7 @@
     "dumpsavepath": "/data/data/eu.bandainamcoent.pacman256/",
     "savedirname": "shared_prefs"
   },
-  "game9": {
+  "game10": {
     "name": "Minecraft Pocket Edition",
     "imagefile": "mpe.png",
     "savedir": "/sdcard/games/com.mojang",
@@ -79,7 +87,7 @@
     "dumpsavepath": "/sdcard/games/",
     "savedirname": "com.mojang"
   },
-  "game10": {
+  "game11": {
     "name": "Terraria",
     "imagefile": "te.png",
     "savedir": "/data/data/com.and.games505.Terraria/files",
@@ -87,7 +95,7 @@
     "dumpsavepath": "/data/data/com.and.games505.Terraria/",
     "savedirname": "files"
   },
-  "game11": {
+  "game12": {
     "name": "Terraria (Paid)",
     "imagefile": "te.png",
     "savedir": "/data/data/com.and.games505.TerrariaPaid/files",
@@ -95,7 +103,7 @@
     "dumpsavepath": "/data/data/com.and.games505.TerrariaPaid/",
     "savedirname": "files"
   },
-  "game12": {
+  "game13": {
     "name": "Smashy Road Arena",
     "imagefile": "sra.png",
     "savedir": "/data/data/com.bearbit.smashyroadarena/shared_prefs",
@@ -103,7 +111,7 @@
     "dumpsavepath": "/data/data/com.bearbit.smashyroadarena/",
     "savedirname": "shared_prefs"
   },
-  "game13": {
+  "game14": {
     "name": "Sonic the Hedgehog (Classic)",
     "imagefile": "sth.png",
     "savedir": "/sdcard/Android/data/com.sega.sonic1/files/",
@@ -111,7 +119,7 @@
     "dumpsavepath": "/sdcard/Android/data/com.sega.sonic1/",
     "savedirname": "files"
   },
-  "game14": {
+  "game15": {
     "name": "Fast like a Fox",
     "imagefile": "flf.png",
     "savedir": "/data/data/com.waybefore.fastlikeafox/files",
@@ -119,7 +127,7 @@
     "dumpsavepath": "/data/data/com.waybefore.fastlikeafox/",
     "savedirname": "files"
   },
-  "game15": {
+  "game16": {
     "name": "Hill Climb Racing",
     "imagefile": "hcr.png",
     "savedir": "/data/data/com.fingersoft.hillclimb/shared_prefs",
@@ -127,7 +135,7 @@
     "dumpsavepath": "/data/data/com.fingersoft.hillclimb/",
     "savedirname": "shared_prefs"
   },
-  "game16": {
+  "game17": {
     "name": "Hill Climb Racing 2",
     "imagefile": "hcr2.png",
     "savedir": "/data/data/com.fingersoft.hcr2/files",
@@ -135,7 +143,7 @@
     "dumpsavepath": "/data/data/com.fingersoft.hcr2/",
     "savedirname": "files"
   },
-  "game17": {
+  "game18": {
     "name": "BADLAND",
     "imagefile": "bl.png",
     "savedir": "/data/data/com.frogmind.badland/files",
@@ -143,7 +151,7 @@
     "dumpsavepath": "/data/data/com.frogmind.badland/",
     "savedirname": "files"
   },  
-  "game18": {
+  "game19": {
     "name": "Crossy Road",
     "imagefile": "cr.png",
     "savedir": "/data/data/com.yodo1.crossyroad/shared_prefs",
@@ -151,7 +159,7 @@
     "dumpsavepath": "/data/data/com.yodo1.crossyroad/",
     "savedirname": "shared_prefs"
   },
-  "game19": {
+  "game20": {
     "name": "Jetpack Joyride",
     "imagefile": "jj.png",
     "savedir": "/data/data/com.halfbrick.jetpackjoyride/files",
@@ -159,7 +167,7 @@
     "dumpsavepath": "/data/data/com.halfbrick.jetpackjoyride/",
     "savedirname": "files"
   },
-  "game20": {
+  "game21": {
     "name": "Neko Atsume: Kitty Collector",
     "imagefile": "na.png",
     "savedir": "/data/data/jp.co.hit_point.nekoatsume/files",
@@ -167,7 +175,7 @@
     "dumpsavepath": "/data/data/jp.co.hit_point.nekoatsume/",
     "savedirname": "files"
   },
-  "game21": {
+  "game22": {
     "name": "Doodle Jump",
     "imagefile": "dj.png",
     "savedir": "/data/data/com.lima.doodlejump/files",
@@ -175,7 +183,7 @@
     "dumpsavepath": "/data/data/com.lima.doodlejump/",
     "savedirname": "files"
   },
-  "game22": {
+  "game23": {
     "name": "Alto's Adventure",
     "imagefile": "aa.png",
     "savedir": "/data/data/com.noodlecake.altosadventure/shared_prefs",
@@ -183,7 +191,7 @@
     "dumpsavepath": "/data/data/com.noodlecake.altosadventure/",
     "savedirname": "shared_prefs"
   },
-  "game23": {
+  "game24": {
     "name": "Angry Birds",
     "imagefile": "ab.png",
     "savedir": "/data/data/com.rovio.angrybirds/files",
@@ -191,7 +199,7 @@
     "dumpsavepath": "/data/data/com.rovio.angrybirds/",
     "savedirname": "files"
   },
-  "game24": {
+  "game25": {
     "name": "PAC-MAN",
     "imagefile": "pmt.png",
     "savedir": "/data/data/com.namcobandaigames.pacmantournaments/files",
@@ -199,7 +207,7 @@
     "dumpsavepath": "/data/data/com.namcobandaigames.pacmantournaments/",
     "savedirname": "files"
   },
-  "game25": {
+  "game26": {
     "name": "Grand Prix Story",
     "imagefile": "gps.png",
     "savedir": "/data/data/net.kairosoft.android.paddock_en/shared_prefs",
@@ -207,7 +215,7 @@
     "dumpsavepath": "/data/data/net.kairosoft.android.paddock_en/",
     "savedirname": "shared_prefs"
   },
-  "game26": {
+  "game27": {
     "name": "Fallout Shelter",
     "imagefile": "fs.png",
     "savedir": "/sdcard/Android/data/com.bethsoft.falloutshelter/files",
@@ -215,7 +223,7 @@
     "dumpsavepath": "/sdcard/Android/data/com.bethsoft.falloutshelter/",
     "savedirname": "files"
   },
-  "game27": {
+  "game28": {
     "name": "Sonic Dash 2: Sonic Boom",
     "imagefile": "sd2.png",
     "savedir": "/sdcard/Android/data/com.sega.sonicboomandroid/files",
@@ -223,7 +231,7 @@
     "dumpsavepath": "/sdcard/Android/data/com.sega.sonicboomandroid/",
     "savedirname": "files"
   },
-  "game28": {
+  "game29": {
     "name": "Sonic The Hedgehog 2 Classic",
     "imagefile": "sth2.png",
     "savedir": "/data/data/com.sega.sonic2.runner/files",
@@ -231,7 +239,7 @@
     "dumpsavepath": "/data/data/com.sega.sonic2.runner/",
     "savedirname": "files"
   },
-  "game29": {
+  "game30": {
     "name": "Plants vs. Zombies FREE",
     "imagefile": "pvz.png",
     "savedir": "/data/data/com.ea.game.pvzfree_row/files",
