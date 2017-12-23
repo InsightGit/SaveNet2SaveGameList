@@ -30,7 +30,7 @@
     "packagename": "com.sega.CrazyTaxiplayhaven",
     "dumpsavepath": "/data/data/com.sega.CrazyTaxiplayhaven/",
     "savedirname": "files"
-  }
+  },
   "game4": {
     "name": "Asphalt 8",
     "imagefile": "a8.png",
