@@ -24,7 +24,7 @@
     "savedirname": "files"
   },
   "game3": {
-    "name": "Crazy Taxi",
+    "name": "Crazy Taxi (Google Play)",
     "imagefile": "ct.png",
     "savedir": "/data/data/com.sega.CrazyTaxiplayhaven/files/",
     "packagename": "com.sega.CrazyTaxiplayhaven",
