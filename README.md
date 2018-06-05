@@ -1,4 +1,8 @@
 # SaveNet2SaveGameList
+
+## Archived due to Microsoft's acquisition of GitHub 
+New project link: https://gitlab.com/insightgit/SaveNet2SaveGameList
+
 The master save game list used by default in [SaveNet2](https://play.google.com/store/apps/details?id=com.infernostudios.savenet2), 
 the save game manager for Android.
 
